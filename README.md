@@ -44,7 +44,7 @@ An Interactive site like Mail inbox with features of display all mails, inbox, r
 Clone the project
 
 ```bash
-  git clone https://github.com/AishwaryaGD2003/ReachInbox_Frontend.git
+  git clone https://github.com/AishwaryaGD2003/ReachInbox.git
 ```
 
 Go to the project directory
